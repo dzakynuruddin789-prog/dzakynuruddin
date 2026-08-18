@@ -313,13 +313,13 @@ h1, h2, h3{ font-weight: 900; color: var(--navy); line-height: 1.25; }
   right: -4%;
 }
 .floating-card--cert{
-  top: 4%;
+  top: 24%;
   left: -14%;
   animation-delay: .4s;
 }
 .floating-card--quote{
   bottom: 8%;
-  left: -4%;
+  left: 4%;
   background: var(--white);
   color: var(--text-body);
   font-weight: 400;
