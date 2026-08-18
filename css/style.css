@@ -318,7 +318,7 @@ h1, h2, h3{ font-weight: 900; color: var(--navy); line-height: 1.25; }
   animation-delay: .4s;
 }
 .floating-card--quote{
-  bottom: 4%;
+  bottom: 20%;
   right: -4%;
   background: var(--navy);
   color: var(--white);
@@ -494,7 +494,7 @@ h1, h2, h3{ font-weight: 900; color: var(--navy); line-height: 1.25; }
 
 .project-card{
   background: var(--offwhite);
-  border-radius: var(--radius-md);
+  border-radius: var(--radius-md);e
   overflow: hidden;
   transition: transform .3s var(--ease), box-shadow .3s var(--ease);
   display: flex;
