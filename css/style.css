@@ -309,19 +309,19 @@ h1, h2, h3{ font-weight: 900; color: var(--navy); line-height: 1.25; }
 .floating-card i{ color: var(--emerald); font-size: 20px; }
 
 .floating-card--stat{
-  top: 8%;
+  top: 6%;
   right: -4%;
 }
 .floating-card--cert{
   top: 24%;
-  left: -14%;
+  left: -4%;
   animation-delay: .4s;
 }
 .floating-card--quote{
-  bottom: 8%;
+  bottom: 6%;
   left: 4%;
-  background: var(--white);
-  color: var(--text-body);
+  background: var(--navy);
+  color: var(--white);
   font-weight: 400;
   max-width: 220px;
   animation-delay: .8s;
